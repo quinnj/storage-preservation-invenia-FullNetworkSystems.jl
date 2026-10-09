@@ -16,7 +16,7 @@ SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 AxisKeys = "0.2"
 Dictionaries = "0.3"
 DocStringExtensions = "0.8, 0.9"
-InlineStrings = "1"
+InlineStrings = "1, 2"
 julia = "1.6"
 
 [extras]
